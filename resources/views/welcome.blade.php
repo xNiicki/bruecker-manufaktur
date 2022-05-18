@@ -10,16 +10,11 @@
             </h1>
         </div>
     </div>
-
     <div class="row">
         <div class="col">
-            <div class="wswueberschrift">
-                <a>
-                    Wer sind Wir?
-                </a>
-            </div>
             <div class="wswtext">
                 <a>
+                    <br>
                     Wenn Sie uns besuchen, können Sie sich auf zwei Dinge besonders freuen: ein ♥-liches Willkommen und viele
                     selbstgemachte Leckereien.
                 </a>

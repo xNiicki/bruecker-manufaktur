@@ -1,6 +1,6 @@
 <x-layout>
 
-    <div class="z1">
+    <div class="z1 bg-beige">
 
         <div class="a1">
 
