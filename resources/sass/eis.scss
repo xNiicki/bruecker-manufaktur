@@ -1,0 +1,177 @@
+/*Text*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+/*Navigationsleiste*/
+
+.active {
+    background-color: #113135;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #113135;
+    border-radius: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li
+{
+    float: left;
+}
+
+
+li a {
+    display: block;
+    color: burlywood;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+/*Style*/
+
+body{
+    background-color: #113135;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.Header {
+    width: 100%;
+    border: #113135;
+}
+.Wilkommen{
+    background-color: burlywood;
+    font-size: 28pt;
+    border: 20px solid burlywood;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: #113135;
+    color: black;
+}
+.ditmar{
+    background-color: burlywood;
+    width: 100%;
+    position: right 50px
+
+}
+.Wilkommen{
+    display: flex;
+    justify-content:space-between
+}
+.wersindwir
+{
+    font-size: 28pt;
+
+}
+.wswueberschrif
+{
+    color: white;
+    background-color: #113135;
+}
+.wswtext
+{
+    background-color: burlywood;
+    font-size: 28pt;
+    border: 20px solid burlywood;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: #113135;
+    color: black;
+}
+.Footer{
+    background-color: #113135;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.socialmedia
+{
+    width: 50px;
+}
+body
+{
+    background-color: #113135;
+}
+/*Nav-Leiste*/
+.active {
+    background-color: #113135;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #113135;
+    border-radius: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li
+{
+    float: left;
+}
+
+
+li a {
+    display: block;
+    color: burlywood;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+/*style*/
+
+.Header
+{
+    width: 100%;
+}
+.picture
+{
+    border-radius: 100%;
+    width: 99%;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+}
+.name
+{
+    text-align: center;
+}
+.Member
+{
+    border: 5px solid #113135;
+    background-color: burlywood;
+    border-radius: 20px;
+}
+.a1
+{
+    display: flex;
+    justify-content: flex-start;
+}
+.z1
+{
+    border: 5px solid #113135;
+    border-radius: 20px;
+}
+.n1
+{
+    border: 10px solid burlywood;
+    border-radius: 20px;
+}
+
+
