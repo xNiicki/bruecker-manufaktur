@@ -30,4 +30,6 @@ Route::get('/impressum', function () {
     return view('impressum');
 });
 
-Route::get('/speisekarte',  [\App\Http\Controllers\Speisen::class, 'index']);
+Route::get('/speisekarte', function () {
+    return view('speisen');
+});
