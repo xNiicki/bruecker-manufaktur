@@ -47,7 +47,7 @@
 
     <div class="row">
         <div class="col-12 bg-green">
-            <a style="color:white"> © 2022 eis.nick-lorenz.de. All rights reserved</a>
+            <a style="color:white"> © 2022 eis.nick-lorenz.de. All rights reserved cool</a>
 
         </div>
 
