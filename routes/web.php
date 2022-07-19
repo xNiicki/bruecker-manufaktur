@@ -33,3 +33,6 @@ Route::get('/impressum', function () {
 Route::get('/speisekarte', function () {
     return view('speisen');
 });
+Route::get('/data', function () {
+    return view('database');
+});
